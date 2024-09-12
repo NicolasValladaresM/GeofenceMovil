@@ -1,3 +1,7 @@
+# Proyecto desarrollado durante la segunda práctica profesional.
+
+##  Aplicación móvil que alertaba al usuario si este se encontraba dentro de una de las zonas definidas por el usuario web. En caso de ser así, su ubicación y trayectoria eran registradas y visibles para el usuario web.
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
