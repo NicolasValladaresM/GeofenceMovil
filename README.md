@@ -10,6 +10,13 @@ First, you will need to start **Metro**, the JavaScript _bundler_ that ships _wi
 
 To start Metro, run the following command from the _root_ of your React Native project:
 
+
+![Captura de Pantalla](Screenshot_1.png)
+![Captura de Pantalla](Screenshot_2.png)
+![Captura de Pantalla](Screenshot_3.png)
+![Captura de Pantalla](Screenshot_4.png)
+
+
 ```bash
 # using npm
 npm start
